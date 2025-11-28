@@ -47,4 +47,4 @@ Você pode visualizar o layout do projeto através [deste link](https://eenzo71.
 
 1. Clone este repositório:
 ```bash
-git clone [https://github.com/Eenzo71/modern-calculator-js.git](https://github.com/Eenzo71/modern-calculator-js.git)
+git clone https://github.com/Eenzo71/modern-calculator-js.git
