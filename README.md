@@ -39,7 +39,7 @@ O diferencial deste projeto é o foco na experiência do usuário (UX), implemen
 
 Você pode visualizar o layout do projeto através [deste link](https://eenzo71.github.io/modern-calculator-js/).
 
-![Screenshot da Calculadora](./Screenshot.png)
+![Screenshot](./Screenshot.png)
 
 ---
 
