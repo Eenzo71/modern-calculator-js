@@ -37,7 +37,7 @@ O diferencial deste projeto é o foco na experiência do usuário (UX), implemen
 
 ## 🎨 Layout
 
-Você pode visualizar o layout do projeto através [deste link](...).
+Você pode visualizar o layout do projeto através [deste link](https://eenzo71.github.io/modern-calculator-js/).
 
 ![Screenshot da Calculadora](./Screenshot.png)
 
@@ -47,4 +47,4 @@ Você pode visualizar o layout do projeto através [deste link](...).
 
 1. Clone este repositório:
 ```bash
-git clone [...](...)
+git clone [https://github.com/Eenzo71/modern-calculator-js.git](https://github.com/Eenzo71/modern-calculator-js.git)
